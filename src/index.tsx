@@ -23,3 +23,5 @@ export * from './components/AbTag';
 export * from './components/AbGrupoOpcoes';
 
 export * from './components/AbInput';
+
+export * from './components/AbInputQuantidade';
